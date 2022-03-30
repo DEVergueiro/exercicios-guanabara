@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(70, 142, 236);
+    background-color: rgb(39, 129, 141);
     font: normal 15pt Arial;
 }
 
@@ -21,4 +21,8 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+#flista {
+    width: 200px;
 }
